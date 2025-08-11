@@ -7,10 +7,7 @@ def press(key):
 def equal():
     global express
     try:
-        if express == "9+10":
-            result = "21 lol"
-        else:
-            result = str(eval(express))
+        result = str(eval(express))
         display.set(result)
         express = result
     except:
