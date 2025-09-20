@@ -1,2 +1,1 @@
-it's all in 40 lines.
-stupid little calculator made with tkinter.
+Basic Tkinter calculator I did in 40 lines of python.
